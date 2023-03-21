@@ -1,0 +1,74 @@
+div.content {
+	min-height: 80vh;
+}
+tr.tr-hover-class {
+	  line-height: 1.5em;
+   }
+tr.tr-hover-class:hover {
+      background-color: lightyellow;
+	  line-height: 1.7em;
+   }
+table {
+    width: 100%;
+}
+
+.fa {
+    display: inline-block;
+    font-family: FontAwesome;
+    font-feature-settings: normal;
+    font-kerning: auto;
+    font-language-override: normal;
+    font-size: inherit;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-style: normal;
+    font-synthesis: weight style;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    text-rendering: auto;
+}
+
+.panel-plugin {
+    margin: 0 2px;
+}
+
+.padtop20{
+    padding-top:20px;
+}
+
+.col-cms{
+    text-align:center;
+}
+
+.btn-cms-col {
+    width: 90%;
+    text-align:center;
+    width: 20%;
+
+}
+
+.col-img {
+    margin:20px;
+}
+
+.boton-plugin {
+    padding: 10px 0 !important;
+    background: #3989cf !important;
+    color: white !important;
+    font-size: 1.1em !important;
+    border: 0;
+	margin-left: 210px;
+	margin-top: 23px;
+}
+.boton-desactivar {
+    padding: 5px 0 !important;
+    background: #CC0000 !important;
+    color: white !important;
+    font-size: 0.8em !important;
+    border: 0;
+}
+
+.help {
+    color: #ff0000;
+}
