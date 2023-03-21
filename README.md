@@ -7,6 +7,7 @@ Uses WHMAPI to change the domain for the user, but because cpanel users dont hav
 
 Please properly test it and add additional security checks before using in production.
 
-
+```
 chmod +x script.sh
 chmod u+s wrapper
+```
